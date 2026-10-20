@@ -2,27 +2,23 @@
 
 # Changelog{id=changelog}
 
-This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/M7bDDQf), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
+This archives the various changes the list team has made to the rules and guidelines of the Demon List. Our main notification system for new changes is in our [Discord server](https://discord.gg/demonlist), so if you are not a member there, it's a good idea to check this section occasionally for new updates.
 
 Changes listed here are ordered from most recent to least recent. **Current version: v3.0**
 
 ## Changes from v2.4 to v3.0 (02/23/2026){id=changelog-10072026}
 
-- The "No Ghost Trial" setting has been **partially unbanned** due to how it has little to no impact on gameplay in most situations. The setting however **will remain banned** for levels in which **there is an active Hide Player trigger at the same time as an active Ghost Trail trigger**. Examples of this include Silent clubstep's last cube and BRITNEY NO SCLEARS's last ship. If you have any doubts in regards to the setting affecting a level, feel free to contact a Demonlist staff member via DM!
+- All submissions that contain invalid raw footage (YouTube links, private Google Drive links, compressed files, etc.) will be automatically deleted. The submitter will be contacted and expected to resubmit valid raw footage which meets our requirements.
 
-- All records that contain invalid raw footage (YouTube links, Google Drive private files, compressed files and others) **will be eliminated**. Following this, the user who submitted the record will be **contacted and expected to resubmit** with valid raw footage that meets the requirements.
+- Submissions with any cosmetic level edits (eg. altered text or added art) are no longer acceptable. Some edits may be given exceptions if insignificant enough, but only with explicit approval from a member of the list team.
 
-- Due to 2.2 adding a custom particle editor for creators to use as decoration within their levels,  we have decided to **ban the use of the "No Particles" hack in 2.2 levels**, as this could potentially act as a visual nerf. However, keep in mind that the hack **will still be available for 2.1 levels**. From Megahack V9 onwards, **the banned hack is labeled as "No Particles Classic"**.
+- Livestreams will no longer be accepted as valid form of raw footage for record submissions.
 
-- **Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**. That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
+- Legacy list completions will only be held to proof guidelines at the time of completion. Audible clicks will still be mandatory in this context.
 
-- **Livestreams will no longer be accepted as valid form of raw footage for record submissions**. Keep in mind that unedited recordings captured through recording software (e.g., OBS, Shadowplay / NVIDIA APP, AMD Relive), and liveplays **will still be accepted on Pointercrate**.
+- CBF blockers can now be removed from levels. Gameplay that is naturally harder with CBF cannot be altered.
 
-- **Legacy list completions will only be held to proof guidelines at the time of completion**. However, in this context **clicks will always be mandatory**.
-
-- **The removal of CBF blockers from levels is now allowed**. However, **it is disallowed to modify parts that are naturally harder with CBF**.
-
-- In order to avoid some records taking some time in being reviewed due to an excessive file size (over 10GB), **it is highly recommended to use Replay Buffer in recording software such as OBS Studio**. A tutorial that shows how to access this feature can be found [here](https://discord.com/channels/395654171422097420/1463644994643427533/1463647469727383668).
+- Overhauled the **[Allowed Mods/Programs spreadsheet](https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing)**, as well as guidelines for various specific mods/hacks.
 
 ## Changes from v2.3 to v2.4 (10/16/2024){id=changelog-10162024}
 
