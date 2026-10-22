@@ -10,8 +10,9 @@ Below are some examples of effective software for recording both video and click
 
 For PC:
 
-- OBS [](https://youtu.be/YNlRUVk3oE8?feature=shared)
+- OBS / OBS Replay Buffer [](https://youtu.be/YNlRUVk3oE8?feature=shared)
 - ShadowPlay / NVIDIA App [](https://youtu.be/IP-3dJw0uMY?feature=shared)
+- MedalTV
 - AMD ReLive
 
 For Mobile:
