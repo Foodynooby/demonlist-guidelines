@@ -18,6 +18,5 @@ A legacy record may be considered for addition if proof exists that the record w
 
 If a level that is currently in the Legacy List of Rated+ still sits at the top 150 of the Classic List, **players will still be able to submit records for it**. That being said, if this level falls into the Legacy List in both lists, **records will not be allowed anymore.**
 
-***All submitted records will be considered under submission guidelines at the time of their completion***. However, in this context, **clicks will always be mandatory for all legacy records**.
-
+***All submitted records will be considered under submission guidelines at the time of their completion***.  However, audible clicks will always be mandatory in this context.
 </div>
