@@ -36,7 +36,7 @@ A level **must have the highest approval rating out of all unplaced levels** bef
 - Voters should aim for the average player to view the levels placed on the Rated+ List as clear, justifiable choices based on a level's gameplay and decoration quality, and allow the **general quality thresholds of the rate system** to directly inform and guide voting decisions. 
 - A level's historical significance to the game should influence votes.
 - The usage of songs not on Newgrounds should not influence votes.
-- The status of creators/verifiers involved in the level should not influence votes in any meaningful way. However, individuals involved in serious controversy may have their names removed/censored from a level's credits at the staff team's discretion as to explicitly condemn their actions and limit attention given to them.
+- The status of creators/verifiers involved in the level should not influence votes in any meaningful way. [Controversial players](/guidelines/controversial-players/) may have their names removed/censored from a level's credits at the staff team's discretion.
 - Above all else, voters are expected to be consistent in their standards.
 
 </div>
