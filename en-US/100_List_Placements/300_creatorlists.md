@@ -12,8 +12,8 @@ Some levels may contain offscreen parts that have unique creators but are not fe
 
 If the original verifier of a list demon is removed from the stats viewer, the host of the level has the right to change the listed verifier to another player with a legitimate completion. In the case of a hacked verification, the first legitimate victor of the level may also choose to be listed as the verifier.
 
-## Controversial Creators/Verifiers{id=controversial-creators}
+## Controversial Players{id=controversial-players}
 
-A creator or verifier involved in severe controversy may have their username removed or censored from the list to clearly condemn their actions. The affiliated level will remain on the list. This policy generally applies to individuals who have committed serious crimes that potentially threaten the safety of community members, but is entirely at the discretion of the list team.
+An individual involved in severe controversy may have their username removed or censored from verifier and creator lists to clearly condemn their actions. The affiliated level will remain on the list. This policy generally applies to individuals who have committed serious crimes that potentially threaten the safety of community members, but is entirely at the discretion of the list team.
 
 </div>
