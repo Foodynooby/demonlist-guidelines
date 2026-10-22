@@ -12,11 +12,11 @@ The video must be available on YouTube, Twitch, Vimeo, or Bilibili in order for 
 
 ## Legacy Records{id=legacy}
 
-Records are **not** accepted for levels that have fallen into the legacy list.
+Records are **not** accepted for levels once they have fallen into the Legacy List on both the Demon List and the Rated+ List. 
 
-A legacy record may be considered for addition if proof exists that the record was achieved before the level entered the legacy list. However, it is not possible to submit legacy records using the submission form, so players may send these to the list team through [our Discord server](https://discord.gg/M7bDDQf). 
+If a level enters the Rated+ Legacy List while still remaining in the Top 150 on the main Demon List, records can still be submitted and will display on both the player's Demon List and Rated+ Stats Viewer.
 
-If a level that is currently in the Legacy List of Rated+ still sits at the top 150 of the Classic List, **players will still be able to submit records for it**. That being said, if this level falls into the Legacy List in both lists, **records will not be allowed anymore.**
+A legacy record may be considered for addition if proof exists that the record was achieved before the level entered the legacy list. However, it is not possible to submit legacy records using the submission form, so players may send these to the list team through [our Discord server](https://discord.gg/demonlist). 
 
 ***All submitted records will be considered under submission guidelines at the time of their completion***.  However, audible clicks will always be mandatory in this context.
 </div>
