@@ -12,6 +12,6 @@ LDMs published by a level’s creator are also acceptable for records as long as
 
 ## LDM Database{id=ldm-database}
 
-Custom LDMs of several list demons are uploaded on our [Copy Tracker](https://arkane.moe/copy-tracker/) from time to time. This database will show a LDM/bugfix version of a level and if it is allowed for use or not. If you wish to submit a copy that you think might be added to the database, do not hesitate to talk to a list member!
+Approved external LDMs and bugfixed copies of list demons are uploaded on our [Copy Tracker](https://arkane.moe/copy-tracker/), displaying an approved/rejected/pending status. If you wish to submit a copy that you think should be added to the database, feel free to talk to a list team member through [our Discord server](https://discord.com/invite/demonlist)!
 
 </div>
