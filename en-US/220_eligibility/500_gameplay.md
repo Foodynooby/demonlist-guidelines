@@ -4,6 +4,10 @@
 
 In general, records are not eligible for the list if gameplay is changed in any way from the original level.
 
+## Visual Changes {id=visual-changes}
+
+Records with any cosmetic level edits (eg. altered text or added art) are generally not eligible for the list. Some edits may be given exceptions if insignificant enough, but only with **explicit approval** from a member of the list team. Visual changes present while gameplay is on-screen will **never** be acceptable!
+
 ## Endscreens{id=endscreens}
 
 Records that do not show the **in-game endscreen** after completing a level will not be eligible for the list. The endscreen text should also be _easily readable_ by the viewer. 
@@ -15,11 +19,5 @@ Game crashes during the endscreen animation and other extenuating circumstances 
 _Any record_ that was not achieved on the current version of the game **or** the version in which the level was verified will not be accepted to the list.
 
 Note that this guideline permits records achieved on private servers (e.g., the 1.9 GDPS) as long as the list demon was originally verified and published on the server as well.
-
-## Altered Levels{id=altered-levels}
-
-**Submissions of levels with altered text or other non-obstructive decoration are not allowed anymore**, as well as decorations that completely change the level. 
-
-That being said, some changes might be given exceptions if they are minuscule enough, **but only if a list member gives their approval**.
 
 </div>
