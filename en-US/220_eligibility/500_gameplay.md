@@ -4,10 +4,6 @@
 
 In general, records are not eligible for the list if gameplay is changed in any way from the original level.
 
-## Visual Changes {id=visual-changes}
-
-Records with any cosmetic level edits (eg. altered text or added art) are generally not eligible for the list. Some edits may be given exceptions if insignificant enough, but only with **explicit approval** from a member of the list team. Visual changes present while gameplay is on-screen will **never** be acceptable!
-
 ## Endscreens{id=endscreens}
 
 Records that do not show the **in-game endscreen** after completing a level will not be eligible for the list. The endscreen text should also be _easily readable_ by the viewer. 
