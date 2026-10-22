@@ -6,7 +6,7 @@ An update to a level that significantly increases its difficulty will cause all 
 
 Any update to a level which changes its difficulty will _invalidate all previous versions_ for future records on the list. Previous versions for levels that receive minor updates, such as those that fix bugs in the gameplay, will still be acceptable for list records.
 
-If an unrated level that is on the list receives an update, **it will also be affected by these guidelines.** Furthermore, if an unrated level has an update that removes part or the entirety of its gameplay, **we reserve the right to upload it on a different account to match the previous version.**
+If an update to an unrated level significantly degrades its gameplay or decoration, the list team reserves the right to list an archived, original version of the level re-uploaded on the official Pointercrate Geometry Dash account instead.
 
 ## Patched Skips{id=patched-skips}
 
@@ -22,8 +22,6 @@ Records that were [rejected for a strong LDM](/guidelines/lowdetailmodes/#custom
 
 ## CBF Blockers{id=cbf-blockers}
 
-All levels that have been updated to contain a CBF Blocker and did not originally contain it **are allowed to have the CBF blocker be removed**.
-
-As of 2.208, all levels that contain a CBF Blocker can have these blockers removed **as long as they do not affect the difficulty of said level**. If a CBF blocker makes any part of a level naturally harder, it is not allowed to remove it.
+All level mechanisms which intend to make usage of the Click Between Frames mod impossible (CBF blockers) can be removed, and copies with them removed can be found on the Pointercrate Geometry Dash account. Modifying clicks that are naturally more difficult due to the precision of CBF (eg., precise 240FPS frame perfects) is **not allowed**.
 
 </div>
