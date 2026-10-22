@@ -8,14 +8,12 @@ Each ban _will be indefinite_ until the player confesses to the list team and pu
 
 _Any player that continues to hack after or while being banned will be subject to significantly increased or permanent ban times._
 
+A player may also be banned if they are considered ["controversial"](/guidelines/controversial-players).
+
 ## Alternate and 'Qwer' Accounts{id=alternate-accounts}
 
 Alternate accounts are prohibited for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the alternate account(s) will be removed, and the original account will be banned indefinitely until the owner publicly confesses.
 
 In addition, the list team prohibits 'qwer' accounts where multiple players submit records under a single name. These accounts will be banned permanently, and the players involved will be banned indefinitely until each one publicly confesses.
-
-## Problematic Players{id=problematic-players}
-
-If a player is deemed as "problematic" within the community due to various reasons, **their records will be removed**. This includes verifications and legacy records, as well as a removal of their list profile.
 
 </div>
