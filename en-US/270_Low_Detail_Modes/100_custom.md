@@ -18,6 +18,6 @@ Remember that you can submit a custom LDM for its approval and subsequent additi
 
 ## Player Altered Decoration{id=player-altered-decoration}
 
-Altered decoration that affects difficulty in any way, adds an unnecessary amount of clutter, or contains hate speech will lead to a record rejection.
+Records with any player-altered decoration (eg. altered text or added art) are generally not eligible for the list. Some edits may be given exceptions if insignificant enough, but only with **explicit approval** from a member of the list team. Visual edits present while gameplay is on-screen will **never** be acceptable!
 
 </div>
