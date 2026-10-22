@@ -14,6 +14,6 @@ If the original verifier of a list demon is removed from the stats viewer, the h
 
 ## Controversial Creators/Verifiers{id=controversial-creators}
 
-If an unrated level gets added to the list, but its creators or verifier are deemed as controversial persons, the level **will have these user's credits removed**. The level will therefore still be on the list, while zero credits will be given to highly questionable people.
+A creator or verifier involved in severe controversy may have their username removed or censored from the list to clearly condemn their actions. The affiliated level will remain on the list. This policy generally applies to individuals who have committed serious crimes that potentially threaten the safety of community members, but is entirely at the discretion of the list team.
 
 </div>
