@@ -10,6 +10,8 @@ Changes listed here are ordered from most recent to least recent. **Current vers
 
 - Added various guidelines regarding the Rated+ list.
 
+- Reworded many guidelines.
+
 - All submissions that contain invalid raw footage (YouTube links, private Google Drive links, compressed files, etc.) will be automatically deleted. The submitter will be contacted and expected to resubmit valid raw footage which meets our requirements.
 
 - Submissions with any cosmetic level edits (eg. altered text or added art) are no longer acceptable. Some edits may be given exceptions if insignificant enough, but only with explicit approval from a member of the list team.
