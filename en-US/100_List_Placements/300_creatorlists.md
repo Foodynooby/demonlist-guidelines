@@ -14,6 +14,6 @@ If the original verifier of a list demon is removed from the stats viewer, the h
 
 ## Controversial Players{id=controversial-players}
 
-An individual involved in severe controversy may have their username removed or censored from verifier and creator lists to clearly condemn their actions. The affiliated level will remain on the list. This policy generally applies to individuals who have committed serious crimes that potentially threaten the safety of community members, but is entirely at the discretion of the list team.
+An individual involved in severe controversy may have their username removed or censored from verifier and creator lists to explicitly condemn their actions and limit attention given to them. The affiliated level will remain on the list. This policy generally applies to individuals who have committed serious crimes that potentially threaten the safety of community members, but is entirely at the discretion of the list team.
 
 </div>
