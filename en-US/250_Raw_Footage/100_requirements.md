@@ -24,12 +24,12 @@ All records that contain invalid raw footage (YouTube links, Google Drive privat
 
 Raw footage of 5 to 15 minutes at moderately high quality is recommended; however, there is **no maximum or minimum file size or video length** for raw footage to be considered. Recording your entire game session is not required!
 
-If your raw footage exceeds the free Google Drive storage limit (15GB), reach out to a member of the list team for help!
+The usage of clipping software such as OBS Replay Buffer/NVIDIA Instant Replay set to 5-15 minutes is highly recommended for recordings, as it drastically decreases the file size of raw footage, although not required.
 
-In order to avoid some records taking some time in being reviewed due to an excessive file size (over 10GB), **it is highly recommended to use Replay Buffer in recording software such as OBS Studio**. A tutorial that shows how to access this feature can be found [here](https://cdn.discordapp.com/attachments/395692399919366147/1431301488386506802/replay_buffer_tutorial.mp4?ex=69a99f63&is=69a84de3&hm=11126cf572aa8a693b7abb441871bc85a8758370891ce36345de896845851030&).
+If your raw footage exceeds the free Google Drive storage limit (15GB), reach out to a member of the list team for help!
 
 ## Live Streams{id=livestreams}
 
-As of 22/05/2025, **Live Streams are no longer allowed as a form of raw footage**. From that date forward, only unedited recordings captured through recording software (e.g., OBS, Shadowplay / NVIDIA APP, AMD Relive), and liveplays **will be accepted on Pointercrate**.
+Live streams on external platforms such as YouTube or Twitch are **not acceptable** as a valid raw footage. Only unedited recordings captured through recording software (e.g., OBS, Shadowplay / NVIDIA APP, AMD Relive) and liveplays are considered acceptable raw footage.
 
 </div>
